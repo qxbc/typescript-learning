@@ -1,2 +1,2 @@
 # typescript learning
-I'm trying to learn react.js
+I'm trying to learn typescript
